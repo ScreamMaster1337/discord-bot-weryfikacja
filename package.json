@@ -1,0 +1,21 @@
+{
+  "name": "m4code.pl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./main.js",
+  "author": "ScreamMaster1337",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./main.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "chalk": "^5.1.2",
+    "chalk-v2": "^1.0.2",
+    "discord-api-types": "^0.37.10",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.0.2",
+    "lib": "^4.3.3",
+    "ms": "^2.1.3"
+  }
+}
